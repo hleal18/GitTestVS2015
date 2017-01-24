@@ -13,6 +13,8 @@ namespace VS_2015_Demo
             //Local changes
 
             //some more changes
+
+            //More changes
         }
     }
 }
